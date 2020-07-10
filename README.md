@@ -50,6 +50,7 @@
 
 - [EME](https://github.com/egoist/eme) - 最近刚出的一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 - [MacDown](http://macdown.uranusjr.com/) - 一款开源的 Markdown 编辑器，深受[Mou](http://25.io/mou/)的影响。
+- [Zettlr](https://www.zettlr.com/) - 适合写作者和研究人员的 Markdown 编辑器
 
 ### 笔记
 
