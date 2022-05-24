@@ -37,6 +37,7 @@
 - [Vim](http://www.vim.org/) - Vim 古老的终端中使用的编辑器。
 - [TextMate](https://macromates.com) - 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs 是基于控制台的编辑器和高度可定制的。
+- [Sublime Text](https://www.sublimetext.com/) - Sublime Text具有漂亮的用户界面和强大的功能。
 
 ### Office
 
@@ -60,6 +61,7 @@
 - [有道云笔记](http://note.youdao.com/) - 支持多目录，Markdown，iWork/Office 预览。
 - [为知笔记](http://www.wiz.cn/download.html) - 支持 Markdown，搜集整理图片链接导入文档。
 - [Notion](https://www.notion.so/) - 一款极其出色的个人笔记软件，它将“万物皆对象”的思维运用到笔记中，让使用者可以天马行空地去创造、拖拽、链接。
+- [Obsidian](https://obsidian.md/) - Obsidian 是一个强大的知识库，位于纯文本 Markdown 文件的本地文件夹之上。
 
 ### 电子书
 
@@ -83,6 +85,7 @@
 - [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。 
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript 支持杠杠的。
 - [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。
+- [ToolBox](https://www.jetbrains.com/toolbox-app/) - 轻松管理您的 JetBrains 的工具，增量下载，平滑升级，项目搜索。
 
 ### 开发者实用工具
 
@@ -99,7 +102,8 @@
 ### 网络分析
 
 - [mitmproxy](https://mitmproxy.org/) - 一款支持 HTTP(S) 的中间人代理工具，可在终端下运行，可用于抓包。
-- [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。 
+- [Wireshark](https://www.wireshark.org) - 世界上最广泛使用的网络协议分析软件。
+- [Proxyman](https://proxyman.io/) - Proxyman 是一个原生的高性能 macOS 应用程序，它使开发人员能够轻松地捕获、检查和操作 HTTP(s) 请求/响应。
 
 ### 命令行工具
 
