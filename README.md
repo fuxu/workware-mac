@@ -170,6 +170,7 @@
 - [Grammarly](https://app.grammarly.com/) - 修正英语语法及用语。
 - [iText](https://toolinbox.net/iText/) - 截图识别文字、翻译。
 - [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。
+- [Bob](https://github.com/ripperhe/Bob)  - Bob 是一款 macOS 平台翻译和 OCR 软件。
 
 ## 软件安装
 
