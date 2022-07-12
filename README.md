@@ -51,6 +51,7 @@
 - [EME](https://github.com/egoist/eme) - 最近刚出的一款 Markdown 编辑器，界面很像 Chrome 浏览器的界面，很简约。
 - [MacDown](http://macdown.uranusjr.com/) - 一款开源的 Markdown 编辑器，深受[Mou](http://25.io/mou/)的影响。
 - [Zettlr](https://www.zettlr.com/) - 适合写作者和研究人员的 Markdown 编辑器
+- [妙言](https://miaoyan.app/) - 一个非常简洁好看的开源的 Mac 端的 Markdown 编辑器。没有任何多余的功能，纯本地使用、安全、语法高亮、黑暗模式、源文件保存。使用 Swift5 原生开发，相比 Web 套壳方式性能体验好。
 
 ### 笔记
 
