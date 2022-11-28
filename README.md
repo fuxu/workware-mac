@@ -33,7 +33,6 @@
 
 ### 文本编辑
 
-- [Atom](https://atom.io) - GitHub 推出的开源编辑器。
 - [Vim](http://www.vim.org/) - Vim 古老的终端中使用的编辑器。
 - [TextMate](https://macromates.com) - 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs 是基于控制台的编辑器和高度可定制的。
@@ -70,7 +69,6 @@
 - [Kindle App](https://www.amazon.com/l/16571048011) - 亚马逊 Kindle App 电子书阅读器。
 - [iChm](https://github.com/NSGod/ichm) - 读 chm 文件的软件。
 
-
 ### RSS
 
 - [Feeds 2](http://www.feedsapp.com/) - 监控任何 RSS。
@@ -83,7 +81,7 @@
 
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE，基于 Intellij IDEA。
 - [Eclipse](https://www.eclipse.org) - 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。
-- [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。 
+- [NetBeans IDE](https://netbeans.org/) - 免费、开源的 IDE，主要用于 Java 开发，可支持多种语言和框架。
 - [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript 支持杠杠的。
 - [Xcode](https://developer.apple.com/xcode/) - 开发 iOS 和 MacOS 基本 IDE。
 - [ToolBox](https://www.jetbrains.com/toolbox-app/) - 轻松管理您的 JetBrains 的工具，增量下载，平滑升级，项目搜索。
@@ -94,7 +92,8 @@
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具。
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 从 Finder 打开命令行。
 - [Hex Fiend](https://ridiculousfish.com/hexfiend/) - 快速而聪明的开源十六进制编辑器。
-- [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如图床、UUID、密码、翻译、JSON格式化等。
+- [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如剪切板、图床、UUID、密码、翻译、JSON 格式化等。
+- [The Unarchiver](https://macpaw.com/the-unarchiver) - Mac 上免费全能的解压缩软件，再也不用担心打不开 rar 压缩包了
 
 ### API 开发和分析
 
@@ -112,7 +111,8 @@
 
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。
 - [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。
-- [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell，搭配 oh-my-zsh 使用爽到飞起。
+- [warp](https://www.warp.dev/) - 基于 Rust 开发，支持 GPU 加速的 21 世纪终端工具
+- [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell，搭配 [oh-my-zsh](https://ohmyz.sh/) 使用爽到飞起。
 - [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录。
 
 ### 版本控制
@@ -123,6 +123,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - 强大的 Git 跨平台客户端。
 
 ### 虚拟机
+
 - [Docker](https://www.docker.com/) - 开源的应用容器引擎。
 - [Vagrant](https://www.vagrantup.com) - 用来构建虚拟开发环境的工具。
 - [Virtual Box](http://www.virtualbox.org) - 免费、免费、免费，带 NTFS 读写，不用买 ParagonNTFS，省100块。
@@ -130,6 +131,7 @@
 
 ### 数据库
 
+- [Another-RDM](https://gitee.com/qishibo/AnotherRedisDesktopManager) - 免费，更快、更好、更稳定的 Redis 桌面（ GUI ）管理客户端
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL 数据库官方管理软件。
 - [Sequel Pro](http://www.sequelpro.com/) - 一个 MySQL 数据库管理软件。
 - [medis](http://getmedis.com) - 漂亮的 Redis 管理软件。
@@ -160,10 +162,12 @@
 
 - [Safari](http://www.apple.com/cn/safari/) - Mac 预装自带浏览器。
 - [Chrome](http://www.google.cn/chrome/browser/) - Chrome 浏览器谷歌出品。
+- [Microsoft Edge](https://www.microsoft.com/zh-cn/edge/home) - 微软出品，基于 Chromium 内核，安装插件无需翻墙，支持多端同步
 - [Firefox](http://www.firefox.com.cn/) - 迎接 Firefox Quantum。快，只为更好。火狐浏览器。
 
 ## 翻译工具
 
+- [火山翻译](https://translate.volcengine.com/translate) - 心脏和字节，只有一个能跳动的翻译软件，不会把 Spring 翻译为春天
 - [有道翻译](http://cidian.youdao.com/multi.html) - 有道词典桌面版。
 - [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。
 - [DeepL](https://www.deepl.com/translator) - 一家创业公司推出的机器翻译引擎，据称比谷歌翻译得更好。
