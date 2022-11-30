@@ -110,6 +110,7 @@
 > Github 上另一个 MacOS 命令行工具的[推荐列表](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性。
+- [Tabby](https://tabby.sh/) - 一款现代化的终端连接工具，开源并且跨平台，支持在Windows、MacOS、Linux系统下使用。
 - [tmux](https://github.com/tmux/tmux) - 一个优秀的终端复用器类自由软件。
 - [warp](https://www.warp.dev/) - 基于 Rust 开发，支持 GPU 加速的 21 世纪终端工具
 - [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell，搭配 [oh-my-zsh](https://ohmyz.sh/) 使用爽到飞起。
